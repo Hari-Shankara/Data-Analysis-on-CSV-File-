@@ -1,0 +1,14 @@
+
+Date,Product,Category,Quantity,UnitPrice,Region
+2026-01-03,Laptop,Electronics,2,45000,Chennai
+2026-01-04,Mouse,Accessories,10,500,Coimbatore
+2026-01-05,Keyboard,Accessories,5,1200,Chennai
+2026-01-06,Monitor,Electronics,3,12000,Bengaluru
+2026-01-07,USB Cable,Accessories,20,150,Chennai
+2026-01-08,Headphones,Electronics,4,2500,Coimbatore
+2026-01-09,Laptop,Electronics,1,45000,Bengaluru
+2026-01-10,Mouse,Accessories,8,500,Chennai
+2026-01-11,Monitor,Electronics,2,12000,Coimbatore
+2026-01-12,Keyboard,Accessories,7,1200,Bengaluru
+2026-01-13,Headphones,Electronics,6,2500,Chennai
+2026-01-14,USB Cable,Accessories,15,150,Coimbatore
